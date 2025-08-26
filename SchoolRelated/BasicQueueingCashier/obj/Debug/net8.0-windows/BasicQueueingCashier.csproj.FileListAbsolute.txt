@@ -1,0 +1,17 @@
+C:\Users\dulay\source\repos\BasicQueueingCashier\BasicQueueingCashier\bin\Debug\net8.0-windows\BasicQueueingCashier.exe
+C:\Users\dulay\source\repos\BasicQueueingCashier\BasicQueueingCashier\bin\Debug\net8.0-windows\BasicQueueingCashier.deps.json
+C:\Users\dulay\source\repos\BasicQueueingCashier\BasicQueueingCashier\bin\Debug\net8.0-windows\BasicQueueingCashier.runtimeconfig.json
+C:\Users\dulay\source\repos\BasicQueueingCashier\BasicQueueingCashier\bin\Debug\net8.0-windows\BasicQueueingCashier.dll
+C:\Users\dulay\source\repos\BasicQueueingCashier\BasicQueueingCashier\bin\Debug\net8.0-windows\BasicQueueingCashier.pdb
+C:\Users\dulay\source\repos\BasicQueueingCashier\BasicQueueingCashier\obj\Debug\net8.0-windows\BasicQueueingCashier.CashierWindowQueueForm.resources
+C:\Users\dulay\source\repos\BasicQueueingCashier\BasicQueueingCashier\obj\Debug\net8.0-windows\BasicQueueingCashier.QueuingForm.resources
+C:\Users\dulay\source\repos\BasicQueueingCashier\BasicQueueingCashier\obj\Debug\net8.0-windows\BasicQueueingCashier.csproj.GenerateResource.cache
+C:\Users\dulay\source\repos\BasicQueueingCashier\BasicQueueingCashier\obj\Debug\net8.0-windows\BasicQueueingCashier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dulay\source\repos\BasicQueueingCashier\BasicQueueingCashier\obj\Debug\net8.0-windows\BasicQueueingCashier.AssemblyInfoInputs.cache
+C:\Users\dulay\source\repos\BasicQueueingCashier\BasicQueueingCashier\obj\Debug\net8.0-windows\BasicQueueingCashier.AssemblyInfo.cs
+C:\Users\dulay\source\repos\BasicQueueingCashier\BasicQueueingCashier\obj\Debug\net8.0-windows\BasicQueueingCashier.csproj.CoreCompileInputs.cache
+C:\Users\dulay\source\repos\BasicQueueingCashier\BasicQueueingCashier\obj\Debug\net8.0-windows\BasicQueueingCashier.dll
+C:\Users\dulay\source\repos\BasicQueueingCashier\BasicQueueingCashier\obj\Debug\net8.0-windows\refint\BasicQueueingCashier.dll
+C:\Users\dulay\source\repos\BasicQueueingCashier\BasicQueueingCashier\obj\Debug\net8.0-windows\BasicQueueingCashier.pdb
+C:\Users\dulay\source\repos\BasicQueueingCashier\BasicQueueingCashier\obj\Debug\net8.0-windows\BasicQueueingCashier.genruntimeconfig.cache
+C:\Users\dulay\source\repos\BasicQueueingCashier\BasicQueueingCashier\obj\Debug\net8.0-windows\ref\BasicQueueingCashier.dll
