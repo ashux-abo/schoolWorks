@@ -57,6 +57,7 @@
             btnNext.TabIndex = 1;
             btnNext.Text = "Next";
             btnNext.UseVisualStyleBackColor = true;
+            btnNext.Click += btnNext_Click;
             // 
             // listCashierQueue
             // 

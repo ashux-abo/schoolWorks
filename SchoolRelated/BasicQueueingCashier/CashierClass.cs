@@ -11,11 +11,14 @@ namespace BasicQueueingCashier
         private int x;
         public static string getNumberInQueue = "";
         public static Queue<string> CashierQueue;
-
+        public static CustomerView customerView;
         public CashierClass() {
-            x = 1000;
-            CashierQueue = new Queue<string>();
-        }
+            x = 10000;
+            if (CashierQueue == null)
+            {
+                CashierQueue = new Queue<string>();
+            }
+            }
         public string CahsierGeneratedNumber (string CashierNumber)
         {
             x++;
