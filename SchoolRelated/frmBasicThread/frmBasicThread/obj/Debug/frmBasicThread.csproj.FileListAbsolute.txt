@@ -1,0 +1,11 @@
+C:\Users\CompLab209-PC1\source\repos\frmBasicThread\frmBasicThread\bin\Debug\frmBasicThread.exe.config
+C:\Users\CompLab209-PC1\source\repos\frmBasicThread\frmBasicThread\bin\Debug\frmBasicThread.exe
+C:\Users\CompLab209-PC1\source\repos\frmBasicThread\frmBasicThread\bin\Debug\frmBasicThread.pdb
+C:\Users\CompLab209-PC1\source\repos\frmBasicThread\frmBasicThread\obj\Debug\frmBasicThread.csproj.AssemblyReference.cache
+C:\Users\CompLab209-PC1\source\repos\frmBasicThread\frmBasicThread\obj\Debug\frmBasicThread.FrmBasicThread.resources
+C:\Users\CompLab209-PC1\source\repos\frmBasicThread\frmBasicThread\obj\Debug\frmBasicThread.Properties.Resources.resources
+C:\Users\CompLab209-PC1\source\repos\frmBasicThread\frmBasicThread\obj\Debug\frmBasicThread.csproj.GenerateResource.cache
+C:\Users\CompLab209-PC1\source\repos\frmBasicThread\frmBasicThread\obj\Debug\frmBasicThread.csproj.CoreCompileInputs.cache
+C:\Users\CompLab209-PC1\source\repos\frmBasicThread\frmBasicThread\obj\Debug\frmBasicThread.exe
+C:\Users\CompLab209-PC1\source\repos\frmBasicThread\frmBasicThread\obj\Debug\frmBasicThread.pdb
+C:\Users\CompLab209-PC1\source\repos\frmBasicThread\frmBasicThread\obj\Debug\frmBasicThread.exe.config
