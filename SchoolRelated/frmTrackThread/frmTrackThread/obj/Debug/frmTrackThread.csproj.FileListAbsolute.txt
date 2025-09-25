@@ -1,0 +1,11 @@
+C:\Users\dulay\source\repos\frmTrackThread\frmTrackThread\bin\Debug\frmTrackThread.exe.config
+C:\Users\dulay\source\repos\frmTrackThread\frmTrackThread\bin\Debug\frmTrackThread.exe
+C:\Users\dulay\source\repos\frmTrackThread\frmTrackThread\bin\Debug\frmTrackThread.pdb
+C:\Users\dulay\source\repos\frmTrackThread\frmTrackThread\obj\Debug\frmTrackThread.csproj.AssemblyReference.cache
+C:\Users\dulay\source\repos\frmTrackThread\frmTrackThread\obj\Debug\frmTrackThread.TrackThread.resources
+C:\Users\dulay\source\repos\frmTrackThread\frmTrackThread\obj\Debug\frmTrackThread.Properties.Resources.resources
+C:\Users\dulay\source\repos\frmTrackThread\frmTrackThread\obj\Debug\frmTrackThread.csproj.GenerateResource.cache
+C:\Users\dulay\source\repos\frmTrackThread\frmTrackThread\obj\Debug\frmTrackThread.csproj.CoreCompileInputs.cache
+C:\Users\dulay\source\repos\frmTrackThread\frmTrackThread\obj\Debug\frmTrackThread.exe
+C:\Users\dulay\source\repos\frmTrackThread\frmTrackThread\obj\Debug\frmTrackThread.pdb
+C:\Users\dulay\source\repos\frmTrackThread\frmTrackThread\obj\Debug\frmTrackThread.exe.config
