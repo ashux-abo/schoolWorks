@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Malagayo_05LaboratoryExercise1", "CreatingTextFile\Malagayo_05LaboratoryExercise1.csproj", "{9FC64166-7203-40EF-99B2-31FA9D540F76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FC64166-7203-40EF-99B2-31FA9D540F76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC64166-7203-40EF-99B2-31FA9D540F76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC64166-7203-40EF-99B2-31FA9D540F76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC64166-7203-40EF-99B2-31FA9D540F76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE8D37B9-D261-40E6-A57C-855F1C4B1BB3}
+	EndGlobalSection
+EndGlobal
